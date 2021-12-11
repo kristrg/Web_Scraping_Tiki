@@ -9,7 +9,7 @@ Build a web-crawler to take in a Tiki URL and return a dataframe
   - Discount infomation/ Badge information
   - Membership information
 
-- Code can be found in ==WEB_SCRAPING_TIKI.ipynb== file.
+- Code can be found in <mark>WEB_SCRAPING_TIKI.ipynb</mark> file.
 
 ## **Process**
 
