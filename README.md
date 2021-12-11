@@ -12,7 +12,7 @@ Build a web-crawler to take in a Tiki URL and return a dataframe
 - Code can be found in WEB_SCRAPING_TIKI.ipynb file.
 
 ## **Process**
-1. Get URL for product categories on Tiki website
+### Get URL for product categories on Tiki website
 | Main Categories | URL |
 | --------------- | ---- |
 | Điện thoại - Tablets | https://tiki.vn/dien-thoai-may-tinh-bang/c1789?src=c.1789.hamburger_menu_fly_out_banner |
